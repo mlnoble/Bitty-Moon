@@ -1,0 +1,23 @@
+#Basic HarvestMoon-like Features
+
+-Grow plants
+-Day/Night System?? (Time could be moved by events, or could be endless day and night? Moved by eating?)
+-Eating/Cooking
+-Horse Riding
+-Sleep/Wake
+-Farm
+-Upgrade Buildings
+-Animal Care
+-Sell/Gift/Trade
+-Relationships
+-Events
+-Fishing
+-Mining
+
+#Things I want to add
+-Hanging Plants/Flowers/Greenhouse/Window pots
+-Grow climbing roses, design garden/field
+-Koi Pond
+-Mini-Games (Dog/horse race but also some event based minigames would be fun)
+-Dress-up (actually have different cloths/accessories 
+-Maybe cloths designer?? (Omg sounds complicated)

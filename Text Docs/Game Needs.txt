@@ -1,0 +1,59 @@
+#This document contains the steps needed to get some features in game and working
+
+#Player
+-Needs controls on wasd and gamepad
+-3rd person camera
+-Inventory/Backpack?
+-Able to act and interact (not sure what to call this, but code for actions by player)
+	#Blender things
+	-Model
+	-Rig/Animations
+		-Run
+		-Till
+		-Pick-up
+		-Toss
+		-Water
+		-Sow
+		-Ride
+		-Fishing
+	-textures
+	#UI
+	-Do I need a status screen/inventory screen?
+	-Health/Energy bar?
+	-Mood?
+
+#Game Objects
+-Horse Character
+	-Interact (feed apple)
+	-Friendship (meter or just animation?)
+	-Strength/Speed/Stamina
+	-Interact (Ride)
+	-Interact (Pet)
+	-Horse Pack (Extended inventory?)
+-House
+	-Bed
+	-Stove
+	-Dresser
+-Barn
+	-Saddle
+	-Pack
+	-Feed area
+-Garden
+	-Tillable Land
+	-Waterable Land
+	-Vegetables and Fruit
+		-Turnip
+		-Strawberry
+		-Apple Tree?
+		-Grass for feed
+-Stones
+	-Interact (break)
+	-Interact (Mine)
+-Pond
+	-Interact (Fish)
+	
+-Koi Pond
+	-Interact (Place)
+	-Interact (Feed)
+	
+	
